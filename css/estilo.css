@@ -1,0 +1,17 @@
+body{
+    background: #f0efef !important;
+}
+
+#home {
+    background: #ffc107;
+    color: #fff;
+}
+
+.caixa,.juros,.recursos {
+    padding: 60px 0;
+    border-bottom: 1px solid #d1d1d1;
+}
+
+footer p a {
+    margin: 5px 15px;
+}
